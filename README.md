@@ -10,7 +10,15 @@ Me chamo **Daniel Ribeiro**, sou de São José dos Campos - SP e apaixonado pela
 
 #### **Stack**
 
+![GitHub followers](https://img.shields.io/github/followers/Daniel-RPS?style=social)
+
+![GitHub](https://img.shields.io/github/license/Daniel-RPS/Daniel-RPS)
+
+![GitHub repo size](https://img.shields.io/github/repo-size/Daniel-RPS/Daniel-RPS)
+
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python)<br />
+
+
 
 #### **Visitors**
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Daniel-RPS)
